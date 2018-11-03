@@ -1,2 +1,2 @@
-# Define display_board that accepts a board and prints
-# out the current state.
+board = ["0","A", "B",  "|" "0", "|", "0", "B", "B"
+# out the cunamrent state.
