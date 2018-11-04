@@ -1,2 +1,6 @@
-board = ["0","A", "B",  "|" "0", "|", "0", "B", "B"
+def display_board (board)
+
+end
 # out the cunamrent state.
+s display_board(arg)
+end
