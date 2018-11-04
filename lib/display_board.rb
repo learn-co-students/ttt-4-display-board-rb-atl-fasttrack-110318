@@ -1,22 +1,6 @@
 def display_board (board)
-  puts "   |    |   "
+  puts "  #{board[0]} |#{board[1]} ||#{board[2]}  "
   puts "-----------"
-  puts "  |  x  |   "
+  puts " #{board[3]} | #{board[4]}| #{board[5]}   "
   puts "-----------"
-  puts "   |   |   "
-end
-def display_board(board)
-  puts "  0 |   |   "
-  puts "-----------"
-  puts "  |    |   "
-  puts "-----------"
-  puts "   |   |   "
-end
-def display_board (board)
-  puts "   |    |   "
-  puts "-----------"
-  puts "  |     |   "
-  puts "-----------"
-  puts "   |   |   "
-end
-# out the cunamrent state.
+  puts " #{board[6]}  | #{board[7]} |#{board[8]}   "
